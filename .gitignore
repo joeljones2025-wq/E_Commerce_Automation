@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# .NET
+**/bin/
+**/obj/
+**/TestResults/
+*.trx
+
+# IDE and OS files
+.vs/
+*.user
+*.suo
+.DS_Store
